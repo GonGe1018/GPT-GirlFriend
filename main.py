@@ -25,7 +25,7 @@ while True:
     except:
         response="오류"
 
-    print("여자친구 :",response)
+    print("GPT짱 :",response)
     
 
 msgDict={}
